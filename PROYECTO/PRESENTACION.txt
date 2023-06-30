@@ -1,0 +1,36 @@
+<html>
+ <head>
+  <title> PRESENTACION DE LENTES </titele>
+ </head>
+ <body>
+<p> <font align="center" face="cursiva" color="purpule" size="8"> Les presentamso nuestros lentes. </font> </p>
+  <table border="5" cellspacing="5" cellpadding="6" width="50%"
+   height="25%" align="center" bgcolor="white" bordercolor="B8FF33">
+    <tr>
+     <td bgcolor="3498DB" align="center"> PRODUCTO </td>
+     <td bgcolor="3498DB" align="center"> DESCRIBCION </td>
+     <td bgcolor="3498DB" align="center"> PRECIO </td>
+    </tr>
+    <tr>
+     <td aling="left"><img width="80%" src="monofocales.jpg" </td>
+     <td> Son aquellos que tienen la misma graduación en toda la superficie. Con ellas se puede corregir cualquier error refractivo o ametropía como miopía, hipermetropía, astigmatismo o presbicia. El diseño o tallado de una lente           monofocal depende del defecto refractivo que quiera corregir. </td>
+     <td> 500 </td>
+    </tr>
+    <tr>
+     <td aling="left"><img width="80%" src="bifocales.jpg" </td>
+     <td> Los lentes bifocales son aquellas que tienen dos graduaciones diferentes para permitir a la persona corregir errores o defectos refractivos en la visión de lejos y de cerca. Eran la mejor solución para las personas con           presbicia. </td>
+     <td> 450 </td>
+    </tr>
+    <tr>
+     <td aling="left"><img width="80%" src="progrecivos.jpg" </td>
+     <td> Los lentes progrecibos tienen una graduación progresiva de cerca a lejos. De este modo, la parte inferior de la lente está graduada para visión de cerca, la parte central está graduada para la visión 
+          intermedia y la superior para visión de lejos. Los lentes progresivos no son todos iguales, hay productos de corrección más avanzados y otros más básicos. </td>
+     <td> 498 </td>
+    </tr>
+    <tr>
+     <td aling="left"><img width="80%" src="ocupacionales.jpg" </td>
+     <td> Los lentes ocupacionales En este diseño, se establecen dos metros como la distancia máxima a la que el usuario de las lentes debe ver con claridad y nitidez. Esta versión es ideal para las personas que trabajan principalmente           en el computador o leen mucho. </td>
+     <td> 200 </td>
+    </tr>
+ </body>
+</html>
